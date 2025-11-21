@@ -107,6 +107,11 @@ You can run the agent directly in your terminal using `main.py`.
 **Daichi Kohmoto**
 * Github: [@barrejant](https://github.com/barrejant)
 
+## 🔗 Reference
+
+This architecture is based on the **Agents 2.0** concept.
+* **Original Article**: [Agents 2.0: From Shallow Loops to Deep Agents](https://www.philschmid.de/agents-2.0-deep-agents) by Philipp Schmid.
+
 ## 📚 Citation
 
 If you use this code for your research, please cite it as follows:

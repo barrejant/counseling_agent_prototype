@@ -1,4 +1,4 @@
-# AI Counseling Agent (Agents 2.0 Architecture) 🌿
+# AI Counseling Agent: A Prototype (Agents 2.0 Architecture) 🌿
 
 **A Multi-Agent AI System for Behavioral Change Support.**
 *Available in Japanese (ja) and English (en).*

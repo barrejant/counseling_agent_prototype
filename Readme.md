@@ -119,7 +119,7 @@ If you use this code for your research, please cite it as follows:
 ```bibtex
 @misc{ai_counseling_agent,
   author = {Daichi Kohmoto},
-  title = {AI Counseling Agent: An Agents 2.0 Implementation for Behavioral Change},
+  title = {A Prototype of AI Counseling Agent: An Agents 2.0 Implementation for Behavioral Change},
   year = {2025},
   publisher = {GitHub},
   journal = {GitHub repository},

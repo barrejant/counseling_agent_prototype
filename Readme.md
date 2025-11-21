@@ -102,6 +102,26 @@ You can run the agent directly in your terminal using `main.py`.
 * **Streamlit**
 * **NumPy**
 
+## 👤 Author
+
+**Daichi Kohmoto**
+* Github: [@barrejant](https://github.com/barrejant)
+
+## 📚 Citation
+
+If you use this code for your research, please cite it as follows:
+
+```bibtex
+@misc{ai_counseling_agent,
+  author = {Daichi Kohmoto},
+  title = {AI Counseling Agent: An Agents 2.0 Implementation for Behavioral Change},
+  year = {2025},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{[https://github.com/](https://github.com/)[YourUsername]/[RepoName]}}
+}
+```
+
 ## 📄 License
 
-[MIT License](LICENSE)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
